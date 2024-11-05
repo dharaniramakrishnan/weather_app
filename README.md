@@ -3,7 +3,7 @@
 #output:
 ![image](https://github.com/user-attachments/assets/c9d71c1f-83bf-4036-b9ce-cde213d23248)
 
-#Description
+# Description:
 The Weather App is a dynamic web application that provides users with real-time weather information for any location they enter. Built with React on the frontend, this app fetches weather data from an external Weather API, allowing users to access up-to-date weather conditions, including temperature, humidity, wind speed, and weather descriptions. The app can also display an icon representing current weather (e.g., sunny, cloudy, rain).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
